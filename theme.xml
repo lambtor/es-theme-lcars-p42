@@ -26,7 +26,7 @@ version         1.0
       </carousel>
 	  <text name="logoText">
 	     <color>ffaa00</color>
-         <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+         <fontPath>./_inc/fonts/Swiss911_UCm_BT.TTF</fontPath>
 		 <fontSize>0.04</fontSize>
 		 <size>0.13 0.01</size>
 		 <backgroundColor>000000</backgroundColor>
@@ -43,7 +43,7 @@ version         1.0
          <pos>0.26 0.1</pos>
 		 <size>.3 .14</size>
          <color>ffffff</color>
-         <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+         <fontPath>./_inc/fonts/Swiss911_UCm_BT.TTF</fontPath>
 	     <fontSize>0.05</fontSize>
 		 <alignment>center</alignment>
       </text>  
@@ -57,7 +57,7 @@ version         1.0
 
    <view name="system">
       <helpsystem name="help">
-	     <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+	     <fontPath>./_inc/fonts/Swiss911_UCm_BT.TTF</fontPath>
          <fontSize>0.03</fontSize>
          <pos>0.47 0.943</pos>      
          <textColor>000000</textColor>
@@ -66,7 +66,7 @@ version         1.0
    </view>
    <view name="basic, detailed, video">
       <helpsystem name="help">
-	     <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+	     <fontPath>./_inc/fonts/Swiss911_UCm_BT.TTF</fontPath>
          <fontSize>0.03</fontSize>
          <pos>0.32 0.943</pos>      
          <textColor>000000</textColor>
@@ -85,11 +85,11 @@ version         1.0
       <textlist name="gamelist">
          <pos>0.008 0.179</pos>
          <size>0.13 0.68</size>
-         <selectorColor>7788ffff</selectorColor>
+         <selectorColor>C3D1FE</selectorColor>
          <selectedColor>000000</selectedColor>
-         <primaryColor>eaeaea</primaryColor>
-         <secondaryColor>eaeaea</secondaryColor>
-         <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+         <primaryColor>DEDEDE</primaryColor>
+         <secondaryColor>DEDEDE</secondaryColor>
+         <fontPath>./_inc/fonts/Swiss911_UCm_BT.TTF</fontPath>
          <fontSize>0.029</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound>./_inc/audio/scroll.wav</scrollSound>
@@ -109,19 +109,19 @@ version         1.0
       <text name="md_lbl_rating">
 		 <pos>1 1</pos>
 		 <fontSize>0.02</fontSize>         
-		 <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+		 <fontPath>./_inc/fonts/Swiss911_UCm_BT.TTF</fontPath>
          <color>00000000</color>   
 	  </text>
       <text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre, md_playcount, md_lastplayed">
          <pos>0 0</pos>
 		 <fontSize>0.02</fontSize>         
-		 <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+		 <fontPath>./_inc/fonts/Swiss911_UCm_BT.TTF</fontPath>
          <color>cccccc</color>   
       </text>
       <text name="md_lastplayed,md_description,md_lbl_players,md_players,md_genre,md_lbl_genre,md_releasedate,md_lbl_releasedate,md_lbl_lastplayed,md_lbl_playcount,md_playcount">
-         <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>
+         <fontPath>./_inc/fonts/Swiss911_UCm_BT.TTF</fontPath>
          <fontSize>0.02</fontSize>
-		 <color>EFF700</color> 
+		 <color>F8D941</color> 
       </text>
 	  <image name="grid1" extra="true">
 		<origin>0 0</origin>
@@ -170,7 +170,7 @@ version         1.0
          <pos>0.73 0.16</pos>
          <size>0.2 0.04</size>
          <fontSize>0.025</fontSize>        
-         <color>EFF700</color> 
+         <color>F8D941</color> 
       </text>  
 	  <text name="md_lbl_publisher">
          <pos>0.655 0.21</pos>
@@ -182,7 +182,7 @@ version         1.0
          <pos>0.73 0.21</pos>
          <size>0.2 0.04</size>
          <fontSize>0.025</fontSize>        
-         <color>EFF700</color> 
+         <color>F8D941</color> 
       </text>  	  
       <text name="md_lbl_lastplayed">
          <pos>0.655 0.26</pos>
@@ -194,7 +194,7 @@ version         1.0
          <pos>0.73 0.26</pos>
          <size>0.2 0.04</size>
          <fontSize>0.025</fontSize>         
-         <color>EFF700</color> 
+         <color>F8D941</color> 
 	  </datetime>      
       <text name="md_lbl_players">
          <pos>0.655 0.31</pos>
@@ -206,7 +206,7 @@ version         1.0
          <pos>0.73 0.31</pos>
          <size>0.2 0.04</size>
          <fontSize>0.025</fontSize>        
-         <color>EFF700</color> 
+         <color>F8D941</color> 
       </text>
       <text name="md_lbl_genre">
          <pos>0.655 0.36</pos>
@@ -218,7 +218,7 @@ version         1.0
          <pos>0.73 0.36</pos>
          <size>0.2 0.04</size>
          <fontSize>0.025</fontSize>        
-         <color>EFF700</color> 
+         <color>F8D941</color> 
       </text>      
       <text name="md_lbl_releasedate">
          <pos>0.655 0.41</pos>
@@ -230,7 +230,7 @@ version         1.0
          <pos>0.73 0.41</pos>
          <size>0.2 0.04</size>
          <fontSize>0.025</fontSize>        
-         <color>EFF700</color> 
+         <color>F8D941</color> 
       </datetime>
       <text name="md_lbl_playcount">
          <pos>0.655 0.46</pos>
@@ -242,7 +242,7 @@ version         1.0
          <pos>0.73 0.46</pos>
          <size>0.2 0.04</size>
          <fontSize>0.025</fontSize>        
-         <color>EFF700</color> 
+         <color>F8D941</color> 
       </text> 
 	  <text name="md_name">
 		 <origin>0 0.001</origin>
@@ -250,7 +250,7 @@ version         1.0
 		 <size>0.2 0.055</size>
          <fontSize>0.04</fontSize>    
 		 <alignment>right</alignment>
-		 <fontPath>./_inc/fonts/ANTONIO-BOLD.TTF</fontPath>		 
+		 <fontPath>./_inc/fonts/Swiss911_UCm_BT.TTF</fontPath>		 
          <color>000000</color> 
 		 <zIndex>48</zIndex>
 		 <forceUppercase>true</forceUppercase>
@@ -296,7 +296,7 @@ version         1.0
          <pos>0.19 0.595</pos>
          <size>0.75 0.31</size>
          <fontSize>0.025</fontSize>         
-         <color>FFCC66</color>
+         <color>EAC68A</color>
       </text>
    </view>
 
@@ -365,7 +365,7 @@ version         1.0
          <pos>0.19 0.6</pos>
          <size>0.325 0.30</size>
          <fontSize>0.025</fontSize>         
-         <color>FFCC66</color>
+         <color>EAC68A</color>
       </text>
    </view>
    
