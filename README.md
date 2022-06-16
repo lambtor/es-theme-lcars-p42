@@ -2,6 +2,8 @@
 
 # es-theme-lcars-p42!
 
+forked from https://github.com/prefect421/es-theme-lcars-p42
+
 Step into the latest computer interface the 24th century has to offer with this ST:TNG LCARS inspired theme for EmulationStation.
 
 This theme has been tuned to run at a resolution of 1920x1080.
